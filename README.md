@@ -1,0 +1,2 @@
+# AIScheduleTools
+配合Chrome插件XSwitch解决小米课程表插件AISchedule加载外部js跨域问题
